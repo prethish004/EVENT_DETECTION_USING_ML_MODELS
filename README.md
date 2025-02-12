@@ -6,6 +6,8 @@ This project focuses on **event detection** from news articles using **Machine L
 🎭 **Entertainment** | 🏛️ **Politics** | 💼 **Business** | 🔧 **Tech** | ⚽ **Sports**  
 
 With various **ML models**, we aim to achieve **high accuracy** in detecting and categorizing news events.  
+![image](https://github.com/user-attachments/assets/913e5135-19fe-4a54-be1d-21d10afe745e)
+
 
 ---
 
